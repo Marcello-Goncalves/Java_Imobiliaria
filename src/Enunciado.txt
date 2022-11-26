@@ -1,0 +1,12 @@
+
+    Crie a classe Imovel, que possui um endereço e um preço.
+
+        a. Crie uma classe Novo, que herda Imovel e possui um acresce um adicional de 5% no preço.
+
+        b. Crie uma classe Usado, que herda Imovel e possui um desconto 10% no preço.
+
+    Crie todos os métodos/ construtores necessários
+
+    o programa deve pedir ao utilizador que insira o endereço e preço do imóvel.
+
+    Deve questionar se o imóvel é novo ou usado e apresentar o preço do imóvel conforme a escolha.
